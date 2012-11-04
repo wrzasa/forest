@@ -1,6 +1,6 @@
 # Octopress Themes - Forest Theme
 
-![Octopress Forest Theme thumbnail](https://s3.amazonaws.com/static.liangzan.net/forest-thumbnail.png)
+![Octopress Forest Theme thumbnail](https://s3.amazonaws.com/static.octopressthemes.com/thumbnails/forest-thumbnail.png)
 
 Forest theme is a theme hand made for Octopress blogging framework. It is compatible with Octopress 2. Updates will be provided from this repository.
 
